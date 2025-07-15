@@ -5,7 +5,7 @@ header {
     background-color: white;
     border-bottom: 1px solid #CCCCCC;
 }
-header .logo {
+header div.logo {
     position: absolute;
     border: 1px;
     width: 142px;
